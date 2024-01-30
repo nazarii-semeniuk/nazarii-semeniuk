@@ -5,7 +5,7 @@
 An ambitious Full Stack (kind of) developer with 3 years of experience. Currently, my working stack is Vue.js and Nuxt.js on frontend and Node.js with Express.js framework on backend. Love to create things, love my work. ❤️<br>
 In the path, I've worked with PHP, Laravel and WordPress. Started my path in IT with freelance.
 
-- 💻 Working in Atlasiko Inc.
+- 💻 Working in Billtech
 - 🎮 Pet project - [Gameverse](https://gameverse.com.ua)
 - 📖 Was creating programming tutorials in the past - [WebDevTips](https://webdevtips.pro)
 - 🌱 Learning TypeScript
