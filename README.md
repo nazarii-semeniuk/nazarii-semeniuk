@@ -7,7 +7,8 @@ In the path, I've worked with PHP, Laravel and WordPress. Started my path in IT 
 
 - 💻 Working in Billtech
 - 🎮 Pet project - [Gameverse](https://gameverse.com.ua)
-- 📖 Was creating programming tutorials in the past - [WebDevTips](https://webdevtips.pro)
+- 📖 Was creating programming tutorials in the past (depracated) - [WebDevTips](https://webdevtips.pro)
+- 💻 Trying to teach everyone on my brand new website - [Nazarii Semeniuk](https://nazarii-semeniuk.com)
 - 🌱 Learning TypeScript
 - 📫 How to reach me: [qnazar.semenyuk@gmail.com](mailto:qnazar.semenyuk@gmail.com)
 
