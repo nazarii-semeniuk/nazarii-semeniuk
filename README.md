@@ -2,8 +2,8 @@
 
 ## Hi, I'm Nazarii Semeniuk
 
-An ambitious Full Stack (kind of) developer with 3 years of experience. Currently, my working stack is Vue.js and Nuxt.js on frontend and Node.js with Express.js framework on backend. Love to create things, love my work. ❤️<br>
-In the path, I've worked with PHP, Laravel and WordPress. Started my path in IT with freelance.
+An ambitious Frontend Developer with 5+ years of experience and solid backend (Node.js) skills. Currently, my working stack is Vue.js and Nuxt.js on frontend and Node.js with Express.js framework on backend. Love to create things, love my work. ❤️<br>
+In the past, I've worked with PHP, Laravel and WordPress. Started my path in IT with freelance.
 
 - 💻 Working in Billtech
 - 🎮 Pet project - [Gameverse](https://gameverse.com.ua)
